@@ -42,7 +42,7 @@ A 6 button macropad with a display for button labels and a mouse knob with hapti
 
 The following parts are optional if you want to include the LEDS:
 
-20x WS2811 LED's - https://www.aliexpress.com/item/32776731877.html
+20x WS2812 LED's - https://www.aliexpress.com/item/32776731877.html
 
 20x 0.1uF (100nF) 0603 Capacitors - https://www.aliexpress.com/item/32966526545.html
 
